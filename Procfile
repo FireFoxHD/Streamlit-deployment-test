@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run penguinsML-streamlit.py
+web: sh setup.sh && streamlit run penguinML-streamlit.py
